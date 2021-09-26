@@ -74,3 +74,6 @@ Dokumentasi Pembelajaran Machine Learning
 3. Overfitting, Underfitting and Model Selection
 4. Ridge Regression
 5. Grid Search
+
+## Machine Learning Project
+### [Final Assignment](https://github.com/dikoharyadhanto/Machine-Learning-Documentation/blob/6e82e0284ac6ecb22c0fafec6016a7ef8f5abdef/House_Sales_in_King_Count_USA.ipynb)
